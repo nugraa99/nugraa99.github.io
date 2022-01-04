@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.navigasi{
+font-size: 20px;
+position: fixed;
+text-align: center;
+}
+.background {
+    background-color: rgb(57, 99, 124);
+    padding-top: 70px;
+    padding-bottom: 150px;
+}
+.kertas{
+ margin-top: -80px;
+}
+.tombol {
+    background-color: red;
+    color: white;
+}
+.gambar{
+    width: 100%;
+}
+.gambar2{
+    width: 30px;
+}
+.footer{
+    background-color: rgb(255, 255, 255);
+    margin-top: 20px;
+}
+.footer hr{
+    height: 2px;    
+}
+.footer h3{
+    padding-right: 30px;
+}
+.footerr{
+    margin-top: -12px;
+    padding-bottom: 20px;
+}
