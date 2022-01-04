@@ -1,0 +1,24 @@
+.jumbotron {
+  padding-top: 5rem;
+  background-color: rgb(240, 240, 240);
+}
+.bg {
+  background: #fffdfd;
+  box-shadow: 12px 12px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  width: 50%;
+}
+#hobby {
+  margin-top: 130px;
+}
+.footer img {
+  width: 25px;
+}
+
+hr {
+  margin: 0;
+}
+
+section {
+  padding-top: 5rem;
+}
